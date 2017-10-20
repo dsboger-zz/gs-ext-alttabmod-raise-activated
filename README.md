@@ -1,6 +1,8 @@
 Alt Tab Mod: Only Raise Activated Window
 ========================================
 
+**UNMAINTAINED**
+
 GNOME Shell extension. Supports GNOME Shell 3.6.
 
 Extension page: https://extensions.gnome.org/extension/530/alt-tab-mod-only-raise-activated-window/
